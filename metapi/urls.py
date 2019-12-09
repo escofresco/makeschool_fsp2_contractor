@@ -29,5 +29,5 @@ urlpatterns = [
     path('api/', include('api.urls')),
 
     # show REST framework's login/logout views
-    url(r'^api-auth/', include('rest_framework.urls')),
+    path('api-auth/', include('rest_framework.urls')),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
