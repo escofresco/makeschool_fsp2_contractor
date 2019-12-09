@@ -21,6 +21,13 @@ from django.urls import include, path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+
+    # meta app
     path('', include('meta.urls')),
+
+    # api app
     path('api/', include('api.urls')),
+
+    # show REST framework's login/logout views
+    url(r'^api-auth/', include('rest_framework.urls')),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
