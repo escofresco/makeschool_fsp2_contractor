@@ -3,8 +3,8 @@
 An api for turning code into an api.
 
 
-* [challenges](https://github.com/escofresco/makeschool_fsp2_contractor/challenges.md)
-* [proposal](https://github.com/escofresco/makeschool_fsp2_contractor/proposal)
+* [challenges](https://github.com/escofresco/makeschool_fsp2_contractor/blob/master/challenges.md)
+* [proposal](https://github.com/escofresco/makeschool_fsp2_contractor/blob/master/proposal.md)
 
 
 ## Installation
