@@ -3,7 +3,7 @@ This project is intended to build off of another text generation project. News a
 
 
 ------------
-The following the previous project idea, which I still plan to do at some other time.
+Below is the previous project idea, which I'm saving for later.
 # metapi
 
 This project has two parts.
