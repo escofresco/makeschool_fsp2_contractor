@@ -9,7 +9,8 @@ Automating news, one article at a time.
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
      :target: https://github.com/ambv/black
      :alt: Black code style
-
+.. image:: https://travis-ci.com/escofresco/makeschool_fsp2_contractor.svg?branch=master
+    :target: https://travis-ci.com/escofresco/makeschool_fsp2_contractor
 
 :License: MIT
 
