@@ -13,6 +13,9 @@ urlpatterns = [
     # news app
     path("", include("news.urls")),
 
+    # api app
+    path('api/', include('api.urls')),
+
     # Django Admin, use {% url 'admin:index' %}
     path(settings.ADMIN_URL, admin.site.urls),
     # User management
