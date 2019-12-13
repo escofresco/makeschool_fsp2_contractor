@@ -1,0 +1,5 @@
+[run]
+include = realside/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
