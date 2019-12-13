@@ -42,9 +42,9 @@
   </head>
 
   <body>
+    {% block navbar %}
 
     <div class="mb-1">
-
         <!-- NAVBAR
         ================================================== -->
         <nav class="navbar navbar-expand-lg navbar-light bg-white">
@@ -150,19 +150,16 @@
 
               </ul>
 
-
               <!-- Button -->
               <a class="navbar-btn btn btn-sm btn-primary lift ml-auto" href="{% url 'account_signup' %}">
                 {% trans "Subscribe" %}
               </a>
-
             </div>
-
           </div>
         </nav>
-
-
     </div>
+    {% endblock navbar %}
+
 
     <div class="container">
 
