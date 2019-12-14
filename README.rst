@@ -17,8 +17,8 @@ Automating news, one article at a time.
 * proposal_
 * challenges_
 
-.. _proposal: https://github.com/escofresco/makeschool_fsp2_contractor/edit/master/proposal.md
-.. _challenges: https://github.com/escofresco/makeschool_fsp2_contractor/edit/master/challenges.md
+.. _proposal: https://github.com/escofresco/makeschool_fsp2_contractor/blob/master/proposal.md
+.. _challenges: https://github.com/escofresco/makeschool_fsp2_contractor/blob/master/challenges.md
 
 Settings
 --------
