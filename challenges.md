@@ -1,7 +1,7 @@
 Criteria | Possible | Earned | ☑ Done ️
 --- | --- | --- | --- |
 At least 2 apps in project | 40 | 40 | :see_no_evil:
-At least 2 tests in tests.py in each app | 30 | 00 | :fallen_leaf:
+At least 2 tests in tests.py in each app | 30 | 10 | :fallen_leaf:
 Modular design | 25 | 25 | :hear_no_evil:
 RESTful API using Django REST Framework | 25 | 25 | :fallen_leaf:
 Template-based front-end interface | 25 | 25 | :speak_no_evil:
